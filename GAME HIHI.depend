@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1552972707 source:f:\codeeeeee\game hihi\main.cpp
+	<Windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<time.h>
+
+1555662752 source:f:\codeeeeee\game hihi\score.cpp
+	<Windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<time.h>
+
